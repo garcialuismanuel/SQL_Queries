@@ -8,3 +8,4 @@ Some of the queries we were asked to perform resulted in nulls as the values we 
 
 #### MiniProject4.md  
 Has script but no dataset since values were not present in the tables we were querying.  
+Only Query 2 returned something
